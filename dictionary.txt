@@ -1,7 +1,7 @@
 Kopfkino : Head cinema
 Schnapsidee  : Crazy idea
 Flughafen  : Airport
-Berlin  : City
+Berlin  : City in Germany that takes its name from a West Slavic word meaning "River Rake"
 Bratwurst : German sausage
 Hauptstrasse :  Main road
 Brot : Loaf 
